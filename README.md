@@ -4,7 +4,8 @@ We fine-tune **XLM-RoBERTa-base** on **English** Natural Language Inference (NLI
 
 The goal is to quantify and analyze the **cross-lingual transfer gap** in multilingual models.
 
-Repo used: https://github.com/microsoft/Multilingual-Model-Transfer
+Repo used: **https://github.com/microsoft/Multilingual-Model-Transfer**
+
 ---
 
 ## Dataset
