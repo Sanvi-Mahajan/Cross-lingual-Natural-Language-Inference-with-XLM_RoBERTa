@@ -3,6 +3,7 @@ This project studies how well a multilingual transformer generalizes logical rea
 We fine-tune **XLM-RoBERTa-base** on **English** Natural Language Inference (NLI) and evaluate **zero-shot transfer** to **Hindi** using the **XNLI benchmark**.
 
 The goal is to quantify and analyze the **cross-lingual transfer gap** in multilingual models.
+
 Repo used: https://github.com/microsoft/Multilingual-Model-Transfer
 ---
 
